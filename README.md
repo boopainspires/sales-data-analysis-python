@@ -27,6 +27,7 @@ Columns used in the dataset:
 - GitHub
 
 ## Project Structure
+
 ```text
 phyton/
 ├── data/
@@ -40,3 +41,18 @@ phyton/
 ├── report/
 │   └── summary.md
 └── README.md
+```
+
+## Visuals
+
+### Revenue by Product
+
+![Revenue by Product](visuals/revenue_by_product.png)
+
+### Revenue by Category
+
+![Revenue by Category](visuals/revenue_by_category.png)
+
+### Revenue by City
+
+![Revenue by City](visuals/revenue_by_city.png)
