@@ -1,0 +1,57 @@
+C:\Users\boopa001\Desktop\phyton\.venv\Scripts\python.exe C:\Users\boopa001\Desktop\phyton\src\sales_analysis.py
+========================================
+SALES DATA ANALYSIS REPORT
+========================================
+
+Total Revenue
+-------------
+2835
+
+Revenue by Product
+------------------
+Product
+Laptop      1600
+Desk         600
+Chair        360
+Keyboard     150
+Mouse        125
+Name: Revenue, dtype: int64
+
+Revenue by Category
+-------------------
+Category
+Electronics    1875
+Furniture       960
+Name: Revenue, dtype: int64
+
+Revenue by City
+---------------
+City
+Chicago     1250
+New York    1175
+Dallas       360
+Boston        50
+Name: Revenue, dtype: int64
+
+Top Customers
+-------------
+Customer
+Alice      1175
+Eva         900
+Bob         350
+Frank       240
+Charlie     120
+David        50
+Name: Revenue, dtype: int64
+
+Simple Insights
+---------------
+1. Total revenue is 2835
+2. Best product is Laptop with revenue 1600
+3. Best category is Electronics with revenue 1875
+4. Best city is Chicago with revenue 1250
+5. Top customer is Alice with spending 1175
+
+Charts saved in visuals folder.
+
+Process finished with exit code 0
