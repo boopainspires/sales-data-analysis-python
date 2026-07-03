@@ -56,3 +56,43 @@ phyton/
 ### Revenue by City
 
 ![Revenue by City](visuals/revenue_by_city.png)
+
+## Sample Output
+
+The final console output is saved here:
+
+```text
+output/analysis_output.txt
+
+
+Important: if you paste this, make sure the code block is closed with:
+
+````markdown
+
+
+**Step 4: Upload New Files To GitHub**
+
+Upload/update these files:
+
+```text
+README.md
+output/analysis_output.txt
+```
+
+If you also changed code, upload:
+
+```text
+src/sales_analysis.py
+```
+
+**Now Your Project Includes**
+
+- Dataset
+- Python code
+- Charts
+- Summary report
+- Sample output
+- README
+- Requirements file
+
+After this, the project is complete enough for a beginner portfolio.
