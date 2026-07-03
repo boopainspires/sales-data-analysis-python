@@ -1,0 +1,11 @@
+OrderID,Date,Product,Category,Quantity,Price,Customer,City
+1,2024-01-05,Laptop,Electronics,1,800,Alice,New York
+2,2024-01-07,Mouse,Electronics,2,25,Bob,Chicago
+3,2024-01-10,Chair,Furniture,1,120,Charlie,Dallas
+4,2024-02-02,Desk,Furniture,1,300,Alice,New York
+5,2024-02-11,Keyboard,Electronics,1,50,David,Boston
+6,2024-02-15,Laptop,Electronics,1,800,Eva,Chicago
+7,2024-03-01,Chair,Furniture,2,120,Frank,Dallas
+8,2024-03-05,Mouse,Electronics,3,25,Alice,New York
+9,2024-03-20,Desk,Furniture,1,300,Bob,Chicago
+10,2024-03-22,Keyboard,Electronics,2,50,Eva,Chicago
